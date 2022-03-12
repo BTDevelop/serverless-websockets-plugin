@@ -29,7 +29,7 @@
     "watch": "bash ./scripts/watch.sh"
   },
   "dependencies": {
-    "@babel/polyfill": "^7.0.0",
+    "@babel/polyfill": "^7.12.1",
     "@serverless/utils": "0.0.20",
     "chalk": "^2.4.1",
     "source-map-support": "^0.5.5"
