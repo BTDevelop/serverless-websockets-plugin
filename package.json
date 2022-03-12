@@ -32,7 +32,7 @@
     "@babel/polyfill": "^7.0.0",
     "@serverless/utils": "0.0.20",
     "chalk": "^2.4.1",
-    "source-map-support": "^0.5.5"
+    "source-map-support": "^0.5.21"
   },
   "devDependencies": {
     "@babel/cli": "^7.1.5",
